@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		124537C62DD9E168004D3F00 /* NavigationstackTest.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = NavigationstackTest.xcodeproj; sourceTree = "<group>"; };
 		12AC39872DB22F29000C9260 /* NavigationstackTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationstackTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -29,6 +30,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		124537C72DD9E168004D3F00 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		12AC397E2DB22F29000C9260 = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +105,12 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 12AC39882DB22F29000C9260 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 124537C72DD9E168004D3F00 /* Products */;
+					ProjectRef = 124537C62DD9E168004D3F00 /* NavigationstackTest.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				12AC39862DB22F29000C9260 /* NavigationstackTest */,
