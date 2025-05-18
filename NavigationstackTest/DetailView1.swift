@@ -30,7 +30,7 @@ struct DetailView1: View {
                     .foregroundColor(.white)
                     .cornerRadius(10)
                     .padding(.horizontal)
-                    .padding()
+//                    .padding()
             }
         }
     }
